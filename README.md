@@ -1,4 +1,4 @@
-![Design and Development](https://github.com/JUSAIR-PUTHUSSERI/JUSAIR-PUTHUSSERI/blob/main/Screenshot%20(886).png)
+![Design and Development](https://github.com/JUSAIR-PUTHUSSERI/JUSAIR-JSR/blob/main/Screenshot%20(886).png)
 
 
 <p align="center">
