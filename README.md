@@ -1,8 +1,8 @@
-![Design and Development](https://github.com/JUSAIR-PUTHUSSERI/JUSAIR-JSR/blob/main/Screenshot%20(886).png)
+![Design and Development](https://github.com/JUSAIR-JSR/JUSAIR-JSR/blob/main/Screenshot%20(886).png)
 
 
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=JUSAIR-PUTHUSSERI&show_icons=true" alt="GitHub stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=JUSAIR-JSR&show_icons=true" alt="GitHub stats">
 </p>
 
 <h3 align="center">Connect with me:</h3>
