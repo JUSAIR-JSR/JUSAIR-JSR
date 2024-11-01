@@ -7,7 +7,7 @@
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-    <a href="https://github.com/JUSAIR-PUTHUSSERI"><img src='https://img.icons8.com/ios-filled/50/ffffff/github.png' alt='github' height='45'></a> 
+    <a href="https://github.com/JUSAIR-JSR"><img src='https://img.icons8.com/ios-filled/50/ffffff/github.png' alt='github' height='45'></a> 
     <a href="https://www.instagram.com/jusair_jsr/"><img src='https://img.icons8.com/ios-filled/50/ffffff/instagram-new.png' alt='instagram' height='45'></a>
     <a href="https://www.linkedin.com/in/jusairjsr/"><img src='https://img.icons8.com/ios-filled/50/ffffff/linkedin.png' alt='linkedin' height='45'></a>
     <a href="https://portfolio01-mu.vercel.app/"><img src='https://img.icons8.com/ios-filled/50/ffffff/cloud.png' alt='website' height='40'></a>
